@@ -1,1 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Resume - Zainab Suleiman</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      color: #000;
+    }
+    h1 {
+      font-size: 22px;
+      margin-bottom: 5px;
+    }
+    h2 {
+      font-size: 16px;
+      margin-top: 20px;
+      margin-bottom: 5px;
+      text-transform: uppercase;
+    }
+    p, li {
+      font-size: 14px;
+      margin: 4px 0;
+    }
+    ul {
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Zainab Suleiman</h1>
+  <p>Email: yourname@email.com</p>
+  <p>Phone: +966-5XXXXXXXX</p>
+  <p>Location: Riyadh, Saudi Arabia</p>
+
+  <h2>Professional Summary</h2>
+  <p>Software Engineering graduate with strong skills in programming, databases, and system design. Passionate about coding, problem-solving, and delivering efficient solutions. Motivated to apply academic knowledge in real-world projects and contribute to innovative technology solutions.</p>
+
+  <h2>Education</h2>
+  <p>Bachelor of Software Engineering – [University Name], [Year of Graduation]</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Programming: Java, Python, C++</li>
+    <li>Web Development: HTML, CSS, JavaScript</li>
+    <li>Databases: MySQL, SQL Server</li>
+    <li>Version Control: Git/GitHub</li>
+    <li>Problem-Solving & System Design</li>
+  </ul>
+
+  <h2>Experience</h2>
+  <p>Intern – Software Developer | [Company Name], [Year]</p>
+  <ul>
+    <li>Developed and tested software applications.</li>
+    <li>Collaborated with team members to design and implement solutions.</li>
+    <li>Worked with databases and debugging tools.</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <p><strong>Graduation Project:</strong> [Project Title]</p>
+  <ul>
+    <li>Developed a [brief description of project].</li>
+    <li>Applied [technologies] to design and implement the system.</li>
+  </ul>
+
+</body>
+</html>
 
